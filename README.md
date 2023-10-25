@@ -1,5 +1,6 @@
 # temp_sensor_rapsberryPi
 Projet Workshop I5 EPSI
+Techno : Python
 
 POC de 2 deux capteurs de température sur un Raspberry Pi : 
 - DHT11 : capteur de température et humidité
